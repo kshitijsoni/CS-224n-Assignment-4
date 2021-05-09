@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
-"""
-CS224N 2018-19: Homework 4
-model_embeddings.py: Embeddings for the NMT model
-Pencheng Yin <pcyin@cs.cmu.edu>
-Sahil Chopra <schopra8@stanford.edu>
-Anand Dhoot <anandd@stanford.edu>
-"""
 
 import torch.nn as nn
 
