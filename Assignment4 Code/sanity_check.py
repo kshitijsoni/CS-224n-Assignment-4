@@ -2,11 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-CS224N 2018-19: Homework 4
-sanity_check.py: sanity checks for assignment 4
-Sahil Chopra <schopra8@stanford.edu>
-Michael Hahn <>
-
 Usage:
     sanity_check.py 1d
     sanity_check.py 1e
